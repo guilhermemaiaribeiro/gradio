@@ -1,5 +1,12 @@
 # @gradio/gallery
 
+## 0.4.6
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @gradio/image@0.3.5
+
 ## 0.4.5
 
 ### Patch Changes
